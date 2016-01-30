@@ -1,4 +1,4 @@
-# Course-Project-Shiny-Application
+# Developing Data Products Course Project: Shiny Application
 
 This app takes as input weight and horsepower of a car and predicts the miles per gallon (MPG). Prediction model is generated using the mtcars data set available in R. mtcars data set has been extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models).
 
